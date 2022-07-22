@@ -5,11 +5,11 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I am very passionate about learning and sharing my knowledge with others. I am skillful, goal-oriented, and always give my level best in every single project. Throughout my past years, I have created a lot of websites for my clients. I never compromise in quality of my work and maintain excellent communication. My knowledge covers JavaScript, CSS, HTML, Bootstrap, and WordPress. I use my skills to the project's demand.
 
 # 👨‍💻 My Skills:  
--✔️ HTML
--✔️ CSS
--✔️JavaScript
--✔️Bootstrap
--✔️WordPress
+- ✔️ HTML
+- ✔️ CSS
+- ✔️JavaScript
+- ✔️Bootstrap
+- ✔️WordPress
 
 
 - 🔭 I’m currently working on building a wonderful portfolio 
