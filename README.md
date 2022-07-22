@@ -23,13 +23,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 <a href="https://instagram.com/hasanmahmudblac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanmahmudblac" height="30" width="40" /></a>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/designwithhasan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.0/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/designwithhasan)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishasanmahmud&show_icons=true)  
 
- 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thisishasanmahmud)  
 
