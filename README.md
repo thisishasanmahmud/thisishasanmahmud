@@ -12,11 +12,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - ✔️WordPress
 
 
-- 🔭 I’m currently working on building a wonderful portfolio 
-- 🌱 I’m currently learning REACT JS 
-- 🤔 I’m looking for help with my portfolio building 
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, Wordpress 
-
 
 # 📍Contact Me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thisishasanmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zxhasanmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasan.mahmud.v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasanmahmudblac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanmahmudblac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/designwithhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/designwithhasan)  
@@ -25,7 +20,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishasanmahmud&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thisishasanmahmud)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thisishasanmahmud)  
 
