@@ -7,7 +7,7 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I am very passionate about learning and sharing my knowledge with others. I am skillful, goal-oriented, and always give my level best in every single project. Throughout my past years, I have created a lot of websites for my clients. I never compromise in quality of my work and maintain excellent communication. My knowledge covers JavaScript, CSS, HTML, Bootstrap, and WordPress. I use my skills to the project's demand.
 
 
-<img align="right" alt="coding" width="300" border-radious="50px" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="coding" width="300" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 # 👨‍💻 My Skills:  
 - ✔️ HTML
